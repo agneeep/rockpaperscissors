@@ -1,8 +1,5 @@
 ###
-# Write a program to simulate a game of Rock, Paper, Scissors.
-# The game will prompt the player to choose rock, paper, or scissors by typing 'r',
-# 'p', or 's'. The computer will randomly select its choice. The game will then display
-# both choices using emojis and determine the winner based on the rules
+# Rock, Paper, Scissors
 ###
 
 import random
